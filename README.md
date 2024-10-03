@@ -1,5 +1,5 @@
 # Stress_Detection_Using_Ml
-This project leverages machine learning techniques to detect stress levels based on text data input. The model analyzes the sentiment of text and classifies whether the individual is under stress. The system utilizes a pre-trained classification model and text vectorization techniques like CountVectorizer to convert text into a format suitable for model input.
+This project leverages machine learning techniques to detect stress levels based on text data input. The model analyzes the sentiment of text and classifies whether the individual is under stress. The system utilizes a pre-trained classification model and text vectorization techniques like CountVectorizer to convert text into a format suitable for model input.<br>
 [🔵 Live Project URL](https://stress-detection-using-ml.streamlit.app/)
 
 *Key Features:*
